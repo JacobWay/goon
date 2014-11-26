@@ -1,0 +1,27 @@
+.parallax.full-screen .headline p:nth-child(3) {
+top: -9px;
+bottom: auto;
+}
+.pre-line {
+border-top: 1px solid white;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 13%;
+}
+.end-line {
+border-top: 1px solid white;
+position: absolute;
+top: 0px;
+right: 0px;
+width: 13%;
+}
+
+.headline p:nth-child(2) {
+bottom: -30px;
+top: auto;
+}
+
+.personal-details li {
+    text-transform: capitalize;
+}

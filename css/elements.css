@@ -498,7 +498,7 @@
 	
 	.headline p span {
 		padding: 0 10px;
-		background-color: #fff; 
+		background-color: #FFF; 
 	}
 	
 	
@@ -924,18 +924,20 @@
 		margin-top: -65px;
 	}
 	
-	.parallax.full-screen .headline { border-bottom: none; }
+	.parallax.full-screen .headline { border-bottom: none; border-top: none;}
 	
-	.parallax.full-screen .headline:before,
-	.parallax.full-screen .headline:after {
+	.parallax.full-screen .headline:before, .parallax.full-screen .headline:after {
 		position: absolute;
-		bottom: 0;
-		border-bottom: 1px solid #fff;
-		width: 75px;
+		bottom: 0px;
+		border-bottom: 1px solid #FFFFFF;
+		width: 93px;
 		content: "";
-	}
 	
-	.parallax.full-screen .headline:before { left: 0; }
+}
+
+.headline {}
+	
+	.parallax.full-screen .headline:before { left: 0px; }
 	.parallax.full-screen .headline:after { right: 0; }
 	
 	.parallax.full-screen .headline h1 {
