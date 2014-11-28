@@ -470,7 +470,8 @@
 		color: #252525;
 		font: 12px 'PT Sans', sans-serif;
 		line-height: 20px;
-		text-align: center; 
+		text-align: center;
+		width:auto; 
 	}
 	
 	.headline h1 {

@@ -2,5 +2,95 @@ PROFESSIONAL PROFILE:
 More than 15+ years experience of R&D on web application, embeded system.
 Creat the best possible user experience for features on desktop and mobile web.
 Proficiency on Clousre, Less, HTML Structure, CSS, Bootstrap, Javascript,
-jQuery, AJAX, Python, SQL, Django, VIM, Eclipse IDE, Git, LAMP constructure, and comprehensive practical libraries.
+jQuery, AJAX, Python, SQL, Django, VIM, Eclipse IDE, Git, LAMP constructure, and
+comprehensive practical libraries.
 Think systematically, implement quickly, innovate eagerly, work passionately.
+
+WORK EXPERIENCE:
+Oct 2011 to Apr 2014, ChinaCache Internation Holdings Ltd..
+Software Engineer,
+JOB DESCRIPTION:
+Full-package Web developer worked in SSR(Scalable Service Routing) Group of CSP(Core System Platform)
+Department, a core team of ChinaCache global CDN(Content Delivery Network)
+System. Accomplishing several critical projects as the leading developer.
+
+NOC Visual Web Application, on NOC(Network Operation Center) wildscreen wall,
+real-time displays the information about servers, edge nodes, network
+performance of CDN. 
+
+Global Network Alarm Information Delivery Platform, including alarm template,
+alarm information delivery with sms and email, providing HTTP API for external
+system.
+
+CDN Radar System, detecting CC customer service switching
+information, recording websites cdn provider information by
+scanning ISP LDNS log, finding cdn information by user-provided hostname.
+
+Department KPI Index Web app, collecting the performance of the servers &
+network that engineers maintain, and generating daily, weekly, monthly, annually
+data charts.
+
+SIS(SSR Information System), global CDN network web portal, querying server
+status, network performance, domain channel service quality information.
+
+Developing techonlogy and tools, using JavaScript, jQuery, HighCharts, jVectorMap, Python,
+Django, MySQL, Linux, VIM, Eclipse IDE, Google Chrome Developer Tools.
+
+Honor: 
+The Annual Best Team of Corporation of 2011.
+The department organizer of annual corporation gala.
+The organizer of corporation quarter birthday party.
+
+2006 to 2010, self-employed
+Tried a variety of careers, English-Chinese translator&interpreter, software
+engineer, embeded system engineer.
+
+2004 to 2005, China GRE(Graduate Record Examinations)
+Preparing the national GRE test for the Institute MicroElectronics of PKU(Peking
+University), reaching the national and pku engineering score, but failed pku
+science score.
+
+2003 to 2004, Netac Corp..
+Embeded system engineer, developed USB Flash Disk.
+
+1999 to 2003, Group Sense Ltd..
+Hardware engineer, design Electrical Handhold Dictionary and PDA(Personal
+Digital Assistant).
+
+EDUCATION:
+2006 - present,
+Self-Study on MIT OCW, UC Berkeley Web Cast, Udacity, Coursera, EDX.
+Computer Science & Technology
+
+Life-time self study believer, growing, evolving, and be successful.
+Udacity: 
+CS101, Intro to Computer Science & Programming Course.
+CS253, Web Development
+nd001, Front End nanodegree
+
+UC Berkeley Web Cast:
+CS 61A, Structure and Interpretation of Computer Program.
+
+EDX:
+MITx-6.00x, Introduction to Computer Science and Programming.
+
+2004-2005,
+Self studying micro electronics course of PKU(Peking University)
+
+1996-1999,
+East China Institute of Technology.
+Electrical Engineering and Computer Science.
+Graduate with distinction.
+Active member of College Ballroom Dance Club.
+
+REFERENCES:
+To Work:
+Jacob is a genius! He can shine everywhere. Your team will be green-recycling-battery inside
+with Jacob inside. --David
+
+To Life:
+Handsom, polite, gentleman, tanlented, Jacob is a full package for everyone and
+everything. May God bless him. --John
+
+To myself:
+Pursuing dream, happiness, success in the best.

@@ -1,19 +1,27 @@
+<!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" href="test.css">
+    <link rel="stylesheet" href="js/magnificpopup/magnific-popup.css">
+  </head>
+
   <body>
-    <form action="http://closure-compiler.appspot.com/compile" method="POST">
-    <p>Type JavaScript code to optimize here:</p>
-    <textarea name="js_code" cols="50" rows="5">
-    function hello(name) {
-      // Greets the user
-      alert('Hello, ' + name);
-    }
-    hello('New user');
-    </textarea>
-    <input type="hidden" name="compilation_level" value="WHITESPACE_ONLY">
-    <input type="hidden" name="output_format" value="text">
-    <input type="hidden" name="output_info" value="compiled_code">
-    <br><br>
-    <input type="submit" value="Optimize">
-    </form>
+    <script>
+      (function(){
+        var bla = "";
+        var Ax = 300, Ay = 300, Bx = 1, By = 1;
+        var lineLength = Math.sqrt((Ax-Bx)*(Ax-Bx) + (Ay-By)*(Ay-By));
+        for ( var i=0; i<lineLength; i++) {
+          bla += "<div style='position:absolute; left:" + Math.round(Ax + (Bx-Ax)*i/lineLength) + "px;"
+                  + "top:" + Math.round(Ay + (By-Ay)*i/lineLength) + "px;" 
+                  + "background: #000;"
+                  + "width:1px;"
+                  + "height:1px;'>"
+                  + "</div>";
+        }
+        document.body.innerHTML += bla;
+      })();
+    </script>
   </body>
+
 </html>
