@@ -448,6 +448,12 @@
 		});
 	}
 
+        function activeMenu() {
+            $(".sf-menu li").on("click", function() {
+                $(".sf-menu li").removeClass("active");
+                $(this).addClass("active");
+            });
+        }
 /* ==========================================================================
    When document is ready, do
    ========================================================================== */
@@ -724,7 +730,8 @@
 		handlePageLoader();
 		
 	});
-
+  
+        activeMenu();
 })(window.jQuery);
 
 // non jQuery scripts below
