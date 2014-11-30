@@ -1,4 +1,85 @@
-PROFESSIONAL PROFILE:
+一眼而过，个人概要
+超过15年的研发实战，涉及Web应用，嵌入式系统。
+专业技能精湛，如：HTML5，CSS3，Sass，Bootstrap，JavaScript，Closure，jQuery，AJAX，Python，Django，SQL，VIM，Eclipse
+IDE，Git，Nginx，及其它实用开发库。
+优秀的工作方法，系统思考，快速实现，渴望创新，全心工作。
+
+工作经历
+10-2001 至 04-2014，ChinaCache有限公司
+软件工程师
+工作描述
+全能型Web开发师，就职于ChinaCache全球CDN内容分发网络核心部门CSP（Core System Platform），核心研发组SSR（Scalable Service Routing）。作为主要开发成员，成功研发了一些重要项目。
+
+NOC全网监控巡视墙，在ChinaCache NOC（网络运维中心）屏幕墙上，实时展示全网设备，网络节点，网络性能 的运行状态。
+
+全网告警信息通知平台，包括自定义告警信息模版，通过SMS和emai通知告警信息，用户自定义管理，为外部 系统提供HTTP API发送告警通知。
+
+CDN雷达系统，侦查CC客户CDN服务商变化信息，扫描全网网民访问的域名的CDN信息，查找用户提交的域名CDN 信息。
+
+部门KPI自动化系统，调用工程师负责的各个系统，获取系统运维性能，生成KPI日报，周报，月报，和年报。
+
+SIS（SSR Information System），全网CDN信息查询系统，可以查询服务器状态，网络性能，频道服务质量。
+
+开发技术及工具：JavaScript，jQuery，HighCharts，jVectorMap，WebGL，Python，Django，MySQL，Linux， VIM，Eclipse IDE，Nginx，Google Chrome Developer Tools。
+
+荣誉：
+全公司年度最佳开发团队。
+公司年会部门节目组织者。
+公司季度生日派对组织者。
+
+2006 至 2010，自主就业
+尝试过不同的职业，如，中英互译，口译，软件开发，嵌入式系统开发。
+
+2004 至 2005，国家研究生考试
+参加了北京大学微电子系的研究生考试，达到了国家分数线，和北京大学工程硕士分数线，但没有达到北京大学理科硕士分数线。
+
+2003 至 2004，朗科科技
+嵌入式系统工程师，开发USB闪存盘。
+
+1999 至 2003，权智集团
+硬件工程师，涉及电子词典和PDA个人数码助理。
+
+教育经历
+2006 至 现在
+自学于在线教育平台，如MIT OCW，UC Berkeley网络直播，Udacity，Coursera，EDX。
+计算机科学与技术
+
+终生学习信奉者，希望成长，进化，直至取得成功。
+Udacity：
+CS101，计算机科学与编程概论
+CS253，Web开发
+nd001，Web前端微系列
+
+UC Berkeley Web Cast：
+CS61A，计算机程序结构与解析
+
+EDX：
+MITx－6.00x， 计算机科学与编程概论
+
+2004 －2005，
+自学了北京大学微电子主干课程。
+参加了北京大学研究生考试，并达到了国家分数线，和北京大学工程硕士分数线，但没有达到北京大学理科硕士分数线。
+1996 －1999，
+东华理工大学
+电子技术应用
+学校活跃分子
+舞蹈俱乐部成员。
+系足球队，篮球队成员。
+
+引用
+对于工作：
+危强是一个我心目中的天才！只要他出现在哪里，那里的一切就会与众不同。
+－－章时立
+
+对于生活：
+才华，修养，风度翩翩，但也时不时的逗得周围人哈哈大笑。
+－－言非
+
+对于自我：
+独立思考，实践自己的想法。
+－－危强
+
+PERSONAL PROFILE:
 More than 15+ years experience of R&D on web application, embeded system.
 Creat the best possible user experience for features on desktop and mobile web.
 Proficiency on Clousre, Less, HTML Structure, CSS, Bootstrap, Javascript,

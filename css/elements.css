@@ -420,9 +420,9 @@
 	ul.fill-circle li:before { font-size: 7px; }
 	
 	ul.check li:before { content: ""; }
-	ul.plus li:before { content: ""; }
-	ul.pin li:before { content: ""; }
-	ul.fill-circle li:before { content: ""; }	
+	ul.plus li:before { content: "ï§"; }
+	ul.pin li:before { content: "ï†’"; }
+	ul.fill-circle li:before { content: "ï„‘"; }	
 	
 /* ==========================================================================
    #Dividers
@@ -471,7 +471,7 @@
 		font: 12px 'PT Sans', sans-serif;
 		line-height: 20px;
 		text-align: center;
-		width:auto; 
+		width: auto; 
 	}
 	
 	.headline h1 {
@@ -495,7 +495,9 @@
 		left: 0;
 		letter-spacing: 1px;
  		text-transform: uppercase;
-	}
+	
+		/* width: auto; */
+}
 	
 	.headline p span {
 		padding: 0 10px;
@@ -931,7 +933,7 @@
 		position: absolute;
 		bottom: 0px;
 		border-bottom: 1px solid #FFFFFF;
-		width: 93px;
+		width: 58px;
 		content: "";
 	
 }
