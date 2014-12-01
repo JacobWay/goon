@@ -117,7 +117,7 @@ button {
 }
 
 body {
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif, Georgia,"Times New Roman",Times,serif;
     font-size: 62.5%;
     line-height: 1em
 }
@@ -664,11 +664,11 @@ top: 377px;
 }
 
 aside#micro-edu {
-top: 544px;
+top: 566px;
 }
 
 aside#east-edu {
-top: 683px;
+top: 690px;
 }
 
 .oneline {
