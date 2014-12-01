@@ -25,3 +25,35 @@ top: auto;
 .personal-details li {
     text-transform: capitalize;
 }
+
+.float-menu {
+    list-style:none;
+    margin-bottom: 0px;
+    visibility: hidden;
+    position: absolute;
+}
+
+.float-menu a {
+    padding: 9px 15px;
+    line-height: 35px;
+    color: #252525;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    transition: all 0.3s;
+    text-transform: uppercase;
+    display: block;
+    position: relative;
+    text-decoration: none;
+}
+
+.float-menu li {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.float-menu li:hover a {
+    border-bottom: 2px solid #252525;
+}

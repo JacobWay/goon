@@ -732,6 +732,7 @@
 	});
   
         activeMenu();
+
 })(window.jQuery);
 
 // non jQuery scripts below
