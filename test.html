@@ -1,26 +1,65 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="test.css">
     <style>
+      .block {
+        text-align: center;
+        background: aliceblue;
+        border: #a0a0a0 1px solid;
+        margin: 20px;
+        height: 600px;
+      }
+
+      .block:before {
+        content: 'block';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -0.25em;
+        background: gray;
+      }
+      .centered {
+        display: inline-block;
+        vertical-align: middle;
+        width: 300px;
+        padding: 10px;
+        background: #f5f5f5;
+      }
+
     </style>
   </head>
 
   <body>
-    <div>
-      <div id="siezer">
-        <div id="overlay"></div>
-        <a id="logo" href="#">Link</a>
+    <div id="d" class="block">
+      <div class="centered">
+        some text<br>
+        But he stole up us again
+        and suddenly
       </div>
-      <ul class="float-menu">
-        <li><a href="replay.html">AA</a></li>
-        <li><a href="onePageResumeCN.html">BA</a></li>
-        <li><a href="onePageResumeEN.html">CA</a></li>
-      </ul>
     </div>
-    
-    <!-- jquery -->
-    <script src="js/jquery-2.1.0.min.js"></script>
-    <script src="test.js"></script>
+
+
+<script type="text/javascript">
+  function loadXMLDoc(){
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function(){
+      if (xmlhttp.readyState == 4){
+        if (xmlhttp.status == 200){
+          document.getElementById("d").innerHTML = xmlhttp.responseText;
+        }
+        else if (xmlhttp.status == 400){
+          alert("There was an error 400");
+        }
+        else {
+          alert('something else other than 200 was returned');
+        }
+      }
+    }
+    xmlhttp.open("GET", "test.html", true);
+    xmlhttp.send();
+  }
+
+  loadXMLDoc();
+</script>
   </body>
 
